@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187403314740",
+    "project_id": "permission-c8048",
+    "storage_bucket": "permission-c8048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187403314740:android:3414e1cf3742f851a9cc61",
+        "android_client_info": {
+          "package_name": "com.example.permission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187403314740-o85cpmm6o3ia4gm0fk1tt31iqjrr7en2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPB89CcJvcFpGp34nuaQ5W0c3xOZkY834"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187403314740-o85cpmm6o3ia4gm0fk1tt31iqjrr7en2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
